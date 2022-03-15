@@ -8,13 +8,11 @@ We offer two ways of approaching the problem: one technical and another with an 
 The solutions you propose in both approaches can either be broad (think «Super App» like WeChat) or very specific – solving just one or very few students needs in a novel and comprehensive way. 
 It’s important that your solution centers around the electronic ID & base wallet and enriches the ecosystem on that foundation tech layer. 
 
-Are you planning on further developing this project after the START Hack?
-
 ### Case Pitch
-Insert your Pitch Video or Slides here
+https://github.com/START-Hack/SWITCH-STARTHACK22/blob/81cb6726c04e1e5c8f4c7075221efd139808cb0a/Lifelong-Learning-short.pdf
 
 ### Deep Dive Slides
-Insert materials from your Deep Dives here
+Please check later
 
 ### Further Information
 Insert any further information about the hack case, the topic and related projects.
