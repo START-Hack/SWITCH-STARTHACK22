@@ -5,6 +5,7 @@ A student's journey through the higher education system is complex and character
 We offer two ways of approaching the problem: one technical and another with an emphasis on the student’s perspective. 
 - Approach «Technology»: We are looking for novel and surprising ways to integrate technology into such a base wallet. The aim is to create a rich ecosystem of services and make the platform robust, secure, and scalable. The resulting system should be open and partnership-friendly in both digital and analog settings. We want to remove friction for users and administrators alike. We seek to allow for innovative ways of transactions, e.g., offline authentication and usage, peer-to-peer transactions, password less tech. You might also go crazy on Machine Learning, VR/AR, blockchain, cryptography, wearables, IoT, smart city and intelligent building technology. 
 - Approach «Student’s perspective»: We are looking for an app that facilitates the overview and easy use of the literally hundreds of services, tools, logins, events, and datapoints in both digital and analog settings that are needed to enable successful and joyful studies. 
+
 The solutions you propose in both approaches can either be broad (think «Super App» like WeChat) or very specific – solving just one or very few students needs in a novel and comprehensive way. 
 It’s important that your solution centers around the electronic ID & base wallet and enriches the ecosystem on that foundation tech layer. 
 
