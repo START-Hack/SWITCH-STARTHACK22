@@ -1,6 +1,6 @@
 # START Hack 2022 - SWITCH Case 
 
-### Case Introduction - the Problem Statement
+### Case Introduction
 A student's journey through the higher education system is complex and characterized by a jungle of hurdles, questions, decisions, offerings, systems, and tools. Universities want their students to succeed and make their services and content accessible as easily as possible. The user experience should be digital, mobile-friendly, and intelligent throughout. Given a hypothetical secure, government-backed electronic student identity (let's call it «edu-ID» 😉) in the form of a basic cryptographic wallet app focused not just on the students current engagement with a specific university, but a companion for life including continued education and careers of any type: How can we simplify and enrich the student's lifelong learning journey? 
 
 We offer two ways of approaching the problem: one technical and another with an emphasis on the student’s perspective. 
@@ -27,13 +27,20 @@ Use case assumptions:
 Business case assumptions:  
 - The base wallet is free of charge. We can see a mixture of free and paid services on the platform. 
 - Please propose business models according to your solution.  
+Some of the many use cases we’d like you to look at and possibly solve with your application for students: 
+- Find the right course of study at the right university more easily 
+- Get a handle on the multitude of accesses, tools, platforms, and communication channels of the university: e.g., Badges & other means of campus entry, WLAN/Intra-/Internet, remote access, course plans and offline/online content, Office and collaboration tools, software, cloud storage, filesharing etc.  
+- Keep track of curricula, exams, events, grades, evidence, projects, internships, certificates, transcripts, and degrees. 
+- Enhance student mobility: Arrange guest studies and studies abroad. Easily transfer ECTS study credits.   
+- Assess cost of living, find a part-time job, find scholarships, find housing, access public transportation  
+- Organize life alongside studies: e.g., university sports, discounts, get to know culture and people, build a professional network, learn languages 
 
 ### Resources
 - You'll find some more information about the edu-ID here: https://www.switch.ch/edu-id/
 - List of data attributes of «edu-ID»: https://www.switch.ch/aai/support/documents/attributes/
 - The attribute specification in one file: https://www.switch.ch/de/edu-id/docs/services/attributes/spec/
 - The list of services currently available to edu-ID holders: https://www.switch.ch/aai/participants/allresources/
-- Overview of SWITCH edu.ID data model: https://github.com/START-Hack/SWITCH-STARTHACK22/blob/cc15ecd30c40a0205d9c44ece01da4d6ebff7c57/The%20edu-ID%20data%20model.png
+- A overview of the edu-ID data model: https://github.com/START-Hack/SWITCH-STARTHACK22/blob/cc15ecd30c40a0205d9c44ece01da4d6ebff7c57/The%20edu-ID%20data%20model.png
 
 ### Judging Criteria
 Insert a description of your grading scheme here! What are you looking for? What outcome do you expect?
@@ -42,7 +49,12 @@ Insert a description of your grading scheme here! What are you looking for? What
 List all available mentors here.
 
 ### Mentor Availability
-List the expected availability of your mentors (phyiscal and on Discord)
+At least one of your mentors below will be present on site from 8 til late, while the others will be present on discord: 
+- Marco Dütsch: https://www.linkedin.com/in/marcodutsch/
+- Patrick Arnecke: https://www.linkedin.com/in/patrickarnecke/
+- Christoph Graf: https://www.linkedin.com/in/christoph-graf-9493564/
 
 ### Prize
-Let the participants know what will be expecting the winning Team!
+The winning team will receive: 
+- We invite the winning teams to present their case in a C-level strategy working group at SWITCH. 
+- All team members will receive an iPad. 
