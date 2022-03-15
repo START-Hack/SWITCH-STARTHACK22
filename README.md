@@ -9,8 +9,6 @@ We offer two ways of approaching the problem: one technical and another with an 
 
 The solutions you propose in both approaches can either be broad (think «Super App» like WeChat) or very specific – solving just one or very few students needs in a novel and comprehensive way. 
 
-It’s important that your solution centers around the electronic ID & base wallet and enriches the ecosystem on that foundation tech layer. 
-
 ### Case Pitch
 https://github.com/START-Hack/SWITCH-STARTHACK22/blob/81cb6726c04e1e5c8f4c7075221efd139808cb0a/Lifelong-Learning-short.pdf
 
@@ -24,9 +22,11 @@ Use case assumptions:
 - The users will be students in the higher education system in Switzerland – Bachelor, Master, PhD, post-graduate (e.g., CAS, DAS, MAS, MBA).  
 - Users will be in all age groups and demographics. 
 - The services mainly will be provided by the universities or public institutions like libraries, research institutes etc. 
+
 Business case assumptions:  
 - The base wallet is free of charge. We can see a mixture of free and paid services on the platform. 
 - Please propose business models according to your solution.  
+
 Some of the many use cases we’d like you to look at and possibly solve with your application for students: 
 - Find the right course of study at the right university more easily 
 - Get a handle on the multitude of accesses, tools, platforms, and communication channels of the university: e.g., Badges & other means of campus entry, WLAN/Intra-/Internet, remote access, course plans and offline/online content, Office and collaboration tools, software, cloud storage, filesharing etc.  
@@ -36,19 +36,18 @@ Some of the many use cases we’d like you to look at and possibly solve with yo
 - Organize life alongside studies: e.g., university sports, discounts, get to know culture and people, build a professional network, learn languages 
 
 ### Resources
-- You'll find some more information about the edu-ID here: https://www.switch.ch/edu-id/
-- List of data attributes of «edu-ID»: https://www.switch.ch/aai/support/documents/attributes/
+You'll find some more information about the edu-ID here: https://www.switch.ch/edu-id/
+
+Some specific information snippets:
+- A compact overview of the edu-ID data model: https://github.com/START-Hack/SWITCH-STARTHACK22/blob/cc15ecd30c40a0205d9c44ece01da4d6ebff7c57/The%20edu-ID%20data%20model.png
+- List of all data attributes of the edu-ID: https://www.switch.ch/aai/support/documents/attributes/
 - The attribute specification in one file: https://www.switch.ch/de/edu-id/docs/services/attributes/spec/
 - The list of services currently available to edu-ID holders: https://www.switch.ch/aai/participants/allresources/
-- A overview of the edu-ID data model: https://github.com/START-Hack/SWITCH-STARTHACK22/blob/cc15ecd30c40a0205d9c44ece01da4d6ebff7c57/The%20edu-ID%20data%20model.png
 
 ### Judging Criteria
-Insert a description of your grading scheme here! What are you looking for? What outcome do you expect?
+It’s important that your solution centers around the electronic ID & base wallet and enriches the ecosystem on that foundation tech layer. 
 
-### Point of Contact
-List all available mentors here.
-
-### Mentor Availability
+### Point of Contact and mentor Availability
 At least one of your mentors below will be present on site from 8 til late, while the others will be present on discord: 
 - Marco Dütsch: https://www.linkedin.com/in/marcodutsch/
 - Patrick Arnecke: https://www.linkedin.com/in/patrickarnecke/
