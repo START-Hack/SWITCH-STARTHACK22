@@ -36,7 +36,7 @@ Some of the many use cases we’d like you to look at and possibly solve with yo
 - Organize life alongside studies: e.g., university sports, discounts, get to know culture and people, build a professional network, learn languages 
 
 ## Resources
-You'll find some more information about the edu-ID here: https://www.switch.ch/edu-id/
+You'll find some more information [about the edu-ID here](https://www.switch.ch/edu-id/) 
 
 Some specific information snippets:
 - [A compact overview of the edu-ID data model](https://github.com/START-Hack/SWITCH-STARTHACK22/blob/cc15ecd30c40a0205d9c44ece01da4d6ebff7c57/The%20edu-ID%20data%20model.png)
