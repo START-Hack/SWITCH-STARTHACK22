@@ -55,5 +55,4 @@ At least one of your mentors below will be present on site from 8 til late, whil
 
 ### Prize
 The winning team will receive: 
-- We invite the winning teams to present their case in a C-level strategy working group at SWITCH. 
 - All team members will receive an iPad. 
