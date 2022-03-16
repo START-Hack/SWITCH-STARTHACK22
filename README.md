@@ -18,14 +18,14 @@ Check out our [pitch deck here](https://github.com/START-Hack/SWITCH-STARTHACK22
 Please check later
 
 ## Further information
-Use case assumptions:
+**Use case assumptions**:
 - The base wallet and electronic ID are provided by SWITCH – the Swiss NREN.  
 - For all concepts and prototypes you can assume that every student in Switzerland has this ID and wallet on their smartphone. 
 - The users will be students in the higher education system in Switzerland – Bachelor, Master, PhD, post-graduate (e.g., CAS, DAS, MAS, MBA).  
 - Users will be in all age groups and demographics. 
 - The services mainly will be provided by the universities or public institutions like libraries, research institutes etc. 
 
-Business case assumptions:  
+**Business case assumptions**:  
 - The base wallet is free of charge. We can see a mixture of free and paid services on the platform. 
 - Please propose business models according to your solution.  
 
