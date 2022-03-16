@@ -49,9 +49,9 @@ It’s important that your solution centers around the electronic ID & base wall
 
 ## Point of Contact and mentor Availability
 At least one of your mentors below will be present on site from 8 til late, while the others will be present on discord: 
-- Marco Dütsch: https://www.linkedin.com/in/marcodutsch/
-- Patrick Arnecke: https://www.linkedin.com/in/patrickarnecke/
-- Christoph Graf: https://www.linkedin.com/in/christoph-graf-9493564/
+- [Marco Dütsch](https://www.linkedin.com/in/marcodutsch/)
+- [Patrick Arnecke](https://www.linkedin.com/in/patrickarnecke/)
+- [Christoph Graf](https://www.linkedin.com/in/christoph-graf-9493564/)
 
 ## Prize
 All team members of the winning team will receive an iPad. 
