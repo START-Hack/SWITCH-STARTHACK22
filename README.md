@@ -54,5 +54,4 @@ At least one of your mentors below will be present on site from 8 til late, whil
 - Christoph Graf: https://www.linkedin.com/in/christoph-graf-9493564/
 
 ## Prize
-The winning team will receive: 
-- All team members will receive an iPad. 
+All team members of the winning team will receive an iPad. 
