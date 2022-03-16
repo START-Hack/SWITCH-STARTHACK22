@@ -39,7 +39,7 @@ Some of the many use cases we’d like you to look at and possibly solve with yo
 You'll find some more information about the edu-ID here: https://www.switch.ch/edu-id/
 
 Some specific information snippets:
-- A compact overview of the edu-ID data model: https://github.com/START-Hack/SWITCH-STARTHACK22/blob/cc15ecd30c40a0205d9c44ece01da4d6ebff7c57/The%20edu-ID%20data%20model.png
+- [A compact overview of the edu-ID data model](https://github.com/START-Hack/SWITCH-STARTHACK22/blob/cc15ecd30c40a0205d9c44ece01da4d6ebff7c57/The%20edu-ID%20data%20model.png)
 - List of all data attributes of the edu-ID: https://www.switch.ch/aai/support/documents/attributes/
 - The attribute specification in one file: https://www.switch.ch/de/edu-id/docs/services/attributes/spec/
 - The list of services currently available to edu-ID holders: https://www.switch.ch/aai/participants/allresources/
