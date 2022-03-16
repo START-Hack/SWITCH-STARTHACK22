@@ -1,7 +1,11 @@
 # START Hack 2022 - SWITCH Case 
 
 ## Case introduction
-A student's journey through the higher education system is complex and characterized by a jungle of hurdles, questions, decisions, offerings, systems, and tools. Universities want their students to succeed and make their services and content accessible as easily as possible. The user experience should be digital, mobile-friendly, and intelligent throughout. Given a hypothetical secure, government-backed electronic student identity (let's call it [«edu-ID»](https://www.switch.ch/stories/The-SWITCH-edu-ID-success-story/) 😉) in the form of a basic cryptographic wallet app focused not just on the students current engagement with a specific university, but a companion for life including continued education and careers of any type: How can we simplify and enrich the student's lifelong learning journey? 
+A student's journey through the higher education system is complex and characterized by a jungle of hurdles, questions, decisions, offerings, systems, and tools. Universities want their students to succeed and make their services and content accessible as easily as possible. The user experience should be digital, mobile-friendly, and intelligent throughout. 
+
+Given a hypothetical secure, government-backed electronic student identity (let's call it [«edu-ID»](https://www.switch.ch/stories/The-SWITCH-edu-ID-success-story/) 😉) in the form of a basic cryptographic wallet app focused not just on the students current engagement with a specific university, but a companion for life including continued education and careers of any type: 
+
+> How can we simplify and enrich the student's lifelong learning journey? 
 
 We offer two ways of approaching the problem: one technical and another with an emphasis on the student’s perspective. 
 - Approach «Technology»: We are looking for novel and surprising ways to integrate technology into such a base wallet. The aim is to create a rich ecosystem of services and make the platform robust, secure, and scalable. The resulting system should be open and partnership-friendly in both digital and analog settings. We want to remove friction for users and administrators alike. We seek to allow for innovative ways of transactions, e.g., offline authentication and usage, peer-to-peer transactions, password less tech. You might also go crazy on Machine Learning, VR/AR, blockchain, cryptography, wearables, IoT, smart city and intelligent building technology. 
