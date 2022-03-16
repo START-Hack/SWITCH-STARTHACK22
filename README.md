@@ -48,7 +48,7 @@ Some specific information snippets:
 It’s important that your solution centers around the electronic ID & base wallet and enriches the ecosystem on that foundation tech layer. 
 
 ## Point of contact and mentor availability
-At least one of your mentors below will be present on site from 8 til late, while the others will be present on discord: 
+At least one of your mentors below will be present on site from 8 till late, while the others will be present on Discord: 
 - [Marco Dütsch](https://www.linkedin.com/in/marcodutsch/)
 - [Patrick Arnecke](https://www.linkedin.com/in/patrickarnecke/)
 - [Christoph Graf](https://www.linkedin.com/in/christoph-graf-9493564/)
