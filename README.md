@@ -10,7 +10,7 @@ We offer two ways of approaching the problem: one technical and another with an 
 The solutions you propose in both approaches can either be broad (think «Super App» like WeChat) or very specific – solving just one or very few students needs in a novel and comprehensive way. 
 
 ## Case Pitch
-https://github.com/START-Hack/SWITCH-STARTHACK22/blob/81cb6726c04e1e5c8f4c7075221efd139808cb0a/Lifelong-Learning-short.pdf
+Check out our [pitch deck here](https://github.com/START-Hack/SWITCH-STARTHACK22/blob/81cb6726c04e1e5c8f4c7075221efd139808cb0a/Lifelong-Learning-short.pdf).
 
 ## Deep Dive Slides
 Please check later
