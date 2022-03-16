@@ -1,6 +1,6 @@
 # START Hack 2022 - SWITCH Case 
 
-## Case Introduction
+## Case introduction
 A student's journey through the higher education system is complex and characterized by a jungle of hurdles, questions, decisions, offerings, systems, and tools. Universities want their students to succeed and make their services and content accessible as easily as possible. The user experience should be digital, mobile-friendly, and intelligent throughout. Given a hypothetical secure, government-backed electronic student identity (let's call it [«edu-ID»](https://www.switch.ch/stories/The-SWITCH-edu-ID-success-story/) 😉) in the form of a basic cryptographic wallet app focused not just on the students current engagement with a specific university, but a companion for life including continued education and careers of any type: How can we simplify and enrich the student's lifelong learning journey? 
 
 We offer two ways of approaching the problem: one technical and another with an emphasis on the student’s perspective. 
@@ -9,13 +9,13 @@ We offer two ways of approaching the problem: one technical and another with an 
 
 The solutions you propose in both approaches can either be broad (think «Super App» like WeChat) or very specific – solving just one or very few students needs in a novel and comprehensive way. 
 
-## Case Pitch
+## Case pitch
 Check out our [pitch deck here](https://github.com/START-Hack/SWITCH-STARTHACK22/blob/81cb6726c04e1e5c8f4c7075221efd139808cb0a/Lifelong-Learning-short.pdf).
 
-## Deep Dive Slides
+## Deep dive alides
 Please check later
 
-## Further Information
+## Further information
 Use case assumptions:
 - The base wallet and electronic ID are provided by SWITCH – the Swiss NREN.  
 - For all concepts and prototypes you can assume that every student in Switzerland has this ID and wallet on their smartphone. 
@@ -44,10 +44,10 @@ Some specific information snippets:
 - [The attribute specification in one file](https://www.switch.ch/de/edu-id/docs/services/attributes/spec/)
 - [The list of services currently available to edu-ID holders](https://www.switch.ch/aai/participants/allresources/
 )
-## Judging Criteria
+## Judging criteria
 It’s important that your solution centers around the electronic ID & base wallet and enriches the ecosystem on that foundation tech layer. 
 
-## Point of Contact and mentor Availability
+## Point of contact and mentor availability
 At least one of your mentors below will be present on site from 8 til late, while the others will be present on discord: 
 - [Marco Dütsch](https://www.linkedin.com/in/marcodutsch/)
 - [Patrick Arnecke](https://www.linkedin.com/in/patrickarnecke/)
