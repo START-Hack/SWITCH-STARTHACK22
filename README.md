@@ -54,6 +54,8 @@ At least one of your mentors below will be present on site from 8 till late, whi
 - [Marco Dütsch](https://www.linkedin.com/in/marcodutsch/)
 - [Patrick Arnecke](https://www.linkedin.com/in/patrickarnecke/)
 - [Christoph Graf](https://www.linkedin.com/in/christoph-graf-9493564/)
+![This is an image](/downloads/graf.jpg)
+
 
 ## Prize
 All team members of the winning team will receive an iPad. 
