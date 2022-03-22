@@ -58,7 +58,7 @@ At least one of your mentors below will be present on site from 8 till late, whi
 
 E-Mail: marco.duetsch@switch.ch
 
-Telefon: +41 44 268 1641
+Telefon: +41 79 516 4867
 
 LinkedIn: https://www.linkedin.com/in/marcodutsch/
 
