@@ -51,10 +51,41 @@ It’s important that your solution centers around the electronic ID & base wall
 
 ## Point of contact and mentor availability
 At least one of your mentors below will be present on site from 8 till late, while the others will be present on Discord: 
-- [Marco Dütsch](https://www.linkedin.com/in/marcodutsch/)
-- [Patrick Arnecke](https://www.linkedin.com/in/patrickarnecke/)
-- [Christoph Graf](https://www.linkedin.com/in/christoph-graf-9493564/)
-![This is an image](/downloads/graf.jpg)
+
+![marcodütsch](https://user-images.githubusercontent.com/101259026/159480228-4d3ce720-18a4-4c83-8b83-cd45809e3b83.jpeg)
+
+**Marco Dütsch**
+
+E-Mail: marco.duetsch@switch.ch
+
+Telefon: +41 44 268 1641
+
+LinkedIn: https://www.linkedin.com/in/marcodutsch/
+
+
+
+![PatrickArnecke](https://user-images.githubusercontent.com/101259026/159480346-571eb5ec-adc5-42c7-a605-d6c74ff482dd.jpg)
+
+**Patrick Arnecke**
+
+E-Mail: patrick.arnecke@switch.ch
+
+Telefon: +41 44 253 9827
+
+LinkedIn: https://www.linkedin.com/in/patrickarnecke/
+
+
+
+![graf](https://user-images.githubusercontent.com/101259026/159480062-a333fc4c-b2a9-4f29-8959-4f7bc1abfd3b.png)
+
+**Christoph Graf**
+
+E-Mail: christoph.graf@switch.ch
+
+Telefon: 	+41 44 268 1537
+
+LinkedIn: https://www.linkedin.com/in/christoph-graf-9493564/
+
 
 
 ## Prize
