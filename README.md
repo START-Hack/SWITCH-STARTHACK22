@@ -89,4 +89,4 @@ LinkedIn: https://www.linkedin.com/in/christoph-graf-9493564/
 
 
 ## Prize
-All team members of the winning team will receive an iPad. 
+All team members of the winning team will receive an iPad Air 2022 (5. Gen). 
