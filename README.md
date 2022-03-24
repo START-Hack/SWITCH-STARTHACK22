@@ -14,7 +14,7 @@ The solutions you propose in both approaches can either be broad (think «Super 
 ## Case pitch
 Check out our [pitch deck here](https://github.com/START-Hack/SWITCH-STARTHACK22/blob/702716481dc01a3a8881ee50d38072d1a4930dc6/Lifelong-Learning-short.pdf).
 
-## Deep dive alides
+## Deep dive slides
 Check out our [deepdive pitch deck here](https://github.com/START-Hack/SWITCH-STARTHACK22/blob/ed0bf3172141e568fd9319665f7d2e64d79a0984/Lifelong-Learning-deepdive.pdf).
 
 ## Further information
