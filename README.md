@@ -50,6 +50,8 @@ Some specific information snippets:
 It’s important that your solution centers around the electronic ID & base wallet and enriches the ecosystem on that foundation tech layer. 
 
 ## Point of contact and mentor availability
+Please find us on our [Discord channel](https://discord.com/channels/943159146616852490/946171083483123782).
+
 At least one of your mentors below will be present on site from 8 till late, while the others will be present on Discord: 
 
 ![marcodütsch](https://user-images.githubusercontent.com/101259026/159480228-4d3ce720-18a4-4c83-8b83-cd45809e3b83.jpeg)
